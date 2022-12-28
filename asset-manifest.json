@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto-instituto-nu-carrinho/static/css/main.6e19040a.css",
+    "main.js": "/projeto-instituto-nu-carrinho/static/js/main.452b5315.js",
+    "static/js/787.83353543.chunk.js": "/projeto-instituto-nu-carrinho/static/js/787.83353543.chunk.js",
+    "index.html": "/projeto-instituto-nu-carrinho/index.html",
+    "main.6e19040a.css.map": "/projeto-instituto-nu-carrinho/static/css/main.6e19040a.css.map",
+    "main.452b5315.js.map": "/projeto-instituto-nu-carrinho/static/js/main.452b5315.js.map",
+    "787.83353543.chunk.js.map": "/projeto-instituto-nu-carrinho/static/js/787.83353543.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e19040a.css",
+    "static/js/main.452b5315.js"
+  ]
+}
